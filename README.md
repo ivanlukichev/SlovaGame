@@ -65,7 +65,7 @@ https://lukichev.biz/
 
 Slova Game uses a curated Russian word list as a base for level generation and word validation.
 
-The word list contains **34,622 Russian words** and is available as a separate open resource:
+The word list contains **38,387 Russian words** and is available as a separate open resource:
 
 [https://github.com/ivanlukichev/SlovaGame/blob/main/russian-word-list-games](https://github.com/ivanlukichev/SlovaGame/blob/main/russian-word-list-games)
 
