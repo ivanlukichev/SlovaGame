@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Slova Game preview">
+  <rect width="1200" height="630" fill="#221b14"/>
+  <circle cx="1030" cy="110" r="170" fill="#ffb84d" opacity="0.16"/>
+  <circle cx="170" cy="520" r="220" fill="#ff7f50" opacity="0.1"/>
+  <rect x="84" y="86" width="1032" height="458" rx="34" fill="#2c2319" stroke="#6f563f" stroke-width="2"/>
+  <text x="120" y="160" fill="#ffb84d" font-family="Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="2">RUSSIAN WORD PUZZLE</text>
+  <text x="120" y="252" fill="#fff7ee" font-family="Arial, sans-serif" font-size="72" font-weight="700">Slova Game</text>
+  <text x="120" y="310" fill="#f1ddc8" font-family="Arial, sans-serif" font-size="28">Build many smaller words from one shared set of letters.</text>
+  <rect x="120" y="366" width="176" height="52" rx="26" fill="#ff7f50"/>
+  <text x="208" y="400" text-anchor="middle" fill="#221b14" font-family="Arial, sans-serif" font-size="24" font-weight="700">Play now</text>
+  <g transform="translate(746 154)">
+    <rect width="286" height="260" rx="28" fill="#251d15" stroke="#7c5f43"/>
+    <g fill="#fff7ee" font-family="Arial, sans-serif" font-size="32" font-weight="700" text-anchor="middle">
+      <rect x="30" y="34" width="68" height="68" rx="16" fill="#ffb84d"/><text x="64" y="78" fill="#221b14">S</text>
+      <rect x="110" y="34" width="68" height="68" rx="16" fill="#ffd166"/><text x="144" y="78" fill="#221b14">L</text>
+      <rect x="190" y="34" width="68" height="68" rx="16" fill="#ff7f50"/><text x="224" y="78" fill="#221b14">O</text>
+      <rect x="70" y="126" width="68" height="68" rx="16" fill="#ffd166"/><text x="104" y="170" fill="#221b14">V</text>
+      <rect x="150" y="126" width="68" height="68" rx="16" fill="#ffb84d"/><text x="184" y="170" fill="#221b14">A</text>
+    </g>
+  </g>
+  <text x="120" y="492" fill="#c7a88b" font-family="Arial, sans-serif" font-size="22">Live at slova-game.ru</text>
+</svg>

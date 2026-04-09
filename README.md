@@ -1,79 +1,68 @@
-# Slova Game
+<h1 align="center">Slova Game</h1>
 
-Slova Game is a browser-based word puzzle platform where players create smaller words from a given base word directly in the browser.
+<p align="center">
+  A Russian word puzzle platform where players build smaller words from a larger base word directly in the browser.
+</p>
 
-🌐 Website  
-https://slova-game.ru/
+<p align="center">
+  <a href="https://slova-game.ru/"><strong>Play Now</strong></a>
+  ·
+  <a href="https://github.com/ivanlukichev/SlovaGame"><strong>GitHub Repo</strong></a>
+  ·
+  <a href="https://github.com/ivanlukichev/SlovaGame/blob/main/russian-word-list-games"><strong>Word List</strong></a>
+</p>
 
-## About
+<p align="center">
+  <a href="https://slova-game.ru/">
+    <img src="assets/preview.svg" alt="Slova Game preview" width="900">
+  </a>
+</p>
 
-Slova Game is a simple and accessible word puzzle game focused on building words from letters of a larger word.
+## What It Is
 
-The platform allows players to play instantly without installation or registration, making it suitable for quick sessions on both desktop and mobile devices.
+Slova Game turns a familiar pen-and-paper style word challenge into a browser puzzle platform. Each level is built around one source word, and the player tries to discover as many smaller valid words as possible using only those letters.
 
-Each level is based on a specific word, and the goal is to find as many valid words as possible using its letters.
+This public repository is both a showcase page for the product and a public access point for the underlying Russian word list used in the game.
 
-The project combines classic word game mechanics with a clean interface and fast loading performance.
+## Why It Feels Different
 
-## Gameplay
+- Every level creates a compact word-search challenge with clear boundaries.
+- The product works as both a game and a searchable content structure.
+- It is easy to start, but the combinatorics keep it replayable.
+- The public repo gives useful data, not just marketing copy.
 
-In each level, players are given a base word.
+## Open Data
 
-The goal is to:
+The repo includes the Russian word list that powers level generation and validation:
 
-- create smaller words using only the letters from the base word  
-- use each letter no more times than it appears in the original word  
-- discover all possible valid words for the level  
+- Data file: [russian-word-list-games](https://github.com/ivanlukichev/SlovaGame/blob/main/russian-word-list-games)
+- Scope: 38,387 Russian words
+- Uses: word games, generators, validation tools, content experiments
 
-Players progress through levels and can move to the next word after completing or exploring the current one.
+## Project Snapshot
 
-## Features
+- Genre: word construction puzzle
+- Language: Russian
+- Stack: static front end
+- Core mechanic: build valid smaller words from one base word
+- Extra asset: reusable Russian word list
 
-- Word puzzle gameplay based on letter combinations  
-- Instant play directly in the browser  
-- Level-based structure with multiple words  
-- Clean and minimal interface  
-- Works on desktop and mobile devices  
-- No installation or registration required  
+## More Projects
 
-## Content Structure
+| Project | Live site | Public repo |
+| --- | --- | --- |
+| Goroda | [goroda-na.ru](https://goroda-na.ru/) | [Goroda-na](https://github.com/ivanlukichev/Goroda-na) |
+| Word Chain Game | [word-chain-game.com](https://word-chain-game.com/) | [Word-Chain-Game](https://github.com/ivanlukichev/Word-Chain-Game) |
+| PlayBlockGame | [playblockgame.ru](https://playblockgame.ru/) | [PlayBlockGame](https://github.com/ivanlukichev/PlayBlockGame) |
+| Tic-Tac-Toe | [крестики-нолики.рф](https://крестики-нолики.рф/) | [---](https://github.com/ivanlukichev/---) |
+| Solitaire | [играть-пасьянс.рф](https://играть-пасьянс.рф/) | [-](https://github.com/ivanlukichev/-) |
+| Number Hunt | [numberhuntgame.com](https://numberhuntgame.com/) | [numberhuntgame](https://github.com/ivanlukichev/numberhuntgame) |
+| CalcSprint | [calcsprint.com](https://calcsprint.com/) | [CalcSprint](https://github.com/ivanlukichev/CalcSprint) |
+| PickWinner | [pickwinner.tools](https://pickwinner.tools/) | [pickwinner](https://github.com/ivanlukichev/pickwinner) |
 
-The platform is built around individual word levels.
+## Visit
 
-Each word has its own page, where players can:
-
-- play the level  
-- see possible word combinations  
-- navigate to related words  
-
-This structure allows both gameplay and content exploration.
-
-## Philosophy
-
-Slova Game follows the idea of lightweight browser games that are easy to access and quick to play.
-
-The focus is on simplicity, speed, and classic puzzle mechanics without unnecessary complexity.
-
-## Author
-
-Created by Ivan Lukichev
-
-More projects:  
-https://lukichev.biz/
-
-## Data
-
-Slova Game uses a curated Russian word list as a base for level generation and word validation.
-
-The word list contains **38,387 Russian words** and is available as a separate open resource:
-
-[https://github.com/ivanlukichev/SlovaGame/blob/main/russian-word-list-games](https://github.com/ivanlukichev/SlovaGame/blob/main/russian-word-list-games)
-
-You can:
-
-- view the full list  
-- download it  
-- use it in your own projects  
-- build your own word games or tools  
-
-The list is intended for practical usage in games and may require additional filtering depending on your needs.
+<p>
+  <a href="https://slova-game.ru/"><strong>Open Slova Game</strong></a><br>
+  Browser-based Russian word puzzle backed by a reusable dictionary dataset.
+</p>
